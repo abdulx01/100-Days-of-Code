@@ -3,5 +3,6 @@ To track progress during 100 Days of Code challenge
 
 | Day# | What was done| Topics Covered|
 | -----| -------|------|
-|1| Band Name Generator| print(), input(), string concatenation, thonny.org|
-|2| Tip Calculator| data types, type(), arithmetic operators |
+|1| Band Name Generator| Printing, Commenting, Debugging, String Manipulation, Variables|
+|2| Tip Calculator| Data Types, Numbers, Operations, Type Conversion, f-strings |
+|3| Treasure Island | Conditional Statements, Logical Operators, Code Blocks, Scope|
