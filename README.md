@@ -8,4 +8,5 @@ To track progress during 100 Days of Code challenge
 |3| Treasure Island | Conditional Statements, Logical Operators, Code Blocks, Scope|
 |4| Rock, Paper, Scissors | Randomization, Python Lists|
 |5| PyPassword Generator | Loops, range()|
-|6| | Functions in Python|
+|6| Escaping the Maze| Functions in Python|
+|7| Coding the HANGMAN game| Recap: Lists, Strings, Conditionals, Loops, Functions|
