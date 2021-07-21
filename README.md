@@ -10,3 +10,4 @@ To track progress during 100 Days of Code challenge
 |5| PyPassword Generator | Loops, range()|
 |6| Escaping the Maze| Functions in Python|
 |7| Coding the HANGMAN game| Recap: Lists, Strings, Conditionals, Loops, Functions|
+|8| | More on Functions|
