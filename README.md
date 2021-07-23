@@ -11,7 +11,7 @@ To track progress during 100 Days of Code challenge
 |6| Escaping the Maze| Functions in Python|
 |7| Coding the HANGMAN game| Recap: Lists, Strings, Conditionals, Loops, Functions|
 |8| Caesar Cipher| More on Functions|
-|9|||
+|9| Secret Auction|Python Dictionaries, Nesting|
 |10|||
 |11|||
 |12|||
