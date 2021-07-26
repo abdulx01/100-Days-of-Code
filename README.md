@@ -13,7 +13,7 @@ To track progress during 100 Days of Code challenge
 |8| Caesar Cipher| More on Functions -1|
 |9| Secret Auction|Python Dictionaries, Nesting|
 |10| Calculator App| More on Functions -2|
-|11|||
+|11| Blackjack Game| Recap: Python Basics|
 |12|||
 
 
