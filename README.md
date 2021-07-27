@@ -15,5 +15,14 @@ To track progress during 100 Days of Code challenge
 |10| Calculator App| More on Functions -2|
 |11| Blackjack Game| Recap: Python Basics|
 |12|||
+|13|||
+|14|||
+|15|||
+|16|||
+|17|||
+|18|||
+|19|||
+|20|||
+|21|||
 
 
