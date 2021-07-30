@@ -14,7 +14,7 @@ To track progress during 100 Days of Code challenge
 |9| Secret Auction|Python Dictionaries, Nesting|
 |10| Calculator App| More on Functions -2|
 |11| Blackjack Game| Recap: Python Basics|
-|12|||
+|12| Guess the Number Game| Global and Local Scope|
 |13|||
 |14|||
 |15|||
@@ -24,5 +24,14 @@ To track progress during 100 Days of Code challenge
 |19|||
 |20|||
 |21|||
+|22|||
+|23|||
+|24|||
+|25|||
+|26|||
+|27|||
+|28|||
+|29|||
+|30|||
 
 
