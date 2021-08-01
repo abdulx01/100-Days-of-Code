@@ -1,5 +1,7 @@
 from random import randint
 
+EASY_TURNS = 5
+HARD_TURNS = 10
 
 def check_answer(guess,answer,turns):
   """ Checks the user's guess against the answer. Returns the number of attempts remaining"""
@@ -11,3 +13,12 @@ def check_answer(guess,answer,turns):
     return turns-1
   else:
     print(f"You got it! The number was {answer}")
+
+
+def set_difficulty():
+  level = input("Choose difficulty: Type 'hard' or 'easy'")
+  if level == 'easy':
+    return EASY_TURNS
+  else:
+    return HARD_TURNS
+        
