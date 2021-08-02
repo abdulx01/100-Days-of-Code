@@ -15,7 +15,7 @@ To track progress during 100 Days of Code challenge
 |10| Calculator App| More on Functions -2|
 |11| Blackjack Game| Recap: Python Basics|
 |12| Guess the Number Game| Global and Local Scope|
-|13|| Debugging
+|13| Leap year checking, FizzBuzz| Debugging|
 |14|||
 |15|||
 |16|||
