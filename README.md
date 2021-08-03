@@ -16,7 +16,7 @@ To track progress during 100 Days of Code challenge
 |11| Blackjack Game| Recap: Python Basics|
 |12| Guess the Number Game| Global and Local Scope|
 |13| Leap year checking, FizzBuzz| Debugging|
-|14|||
+|14| Higher Lower Game| Python Basics Revisited|
 |15|||
 |16|||
 |17|||
