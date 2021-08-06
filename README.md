@@ -9,7 +9,7 @@ To track progress during 100 Days of Code challenge
 |4| Rock, Paper, Scissors | Randomization, Python Lists|
 |5| PyPassword Generator | Loops, range()|
 |6| Escaping the Maze| Functions in Python|
-|7| Coding the HANGMAN game| Recap: Lists, Strings, Conditionals, Loops, Functions|
+|7| Coding the Hangman game| Recap: Lists, Strings, Conditionals, Loops, Functions|
 |8| Caesar Cipher| More on Functions -1|
 |9| Secret Auction|Python Dictionaries, Nesting|
 |10| Calculator App| More on Functions -2|
@@ -17,7 +17,7 @@ To track progress during 100 Days of Code challenge
 |12| Guess the Number Game| Global and Local Scope|
 |13| Leap year checking, FizzBuzz| Debugging|
 |14| Higher Lower Game| Python Basics Revisited|
-|15| Coding a Coffee Machine| Python Basics Revisited|
+|15| Coding a Coffee Machine| Local environment setup, Python Basics Revisited|
 |16|||
 |17|||
 |18|||
