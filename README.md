@@ -19,7 +19,7 @@ To track progress during 100 Days of Code challenge
 |14| Coding the Higher Lower Game| Python Basics Revisited-1|
 |15| Coding a Coffee Machine| Python Basics Revisited-2|
 |16| Coffee Machine - OOP Version| Intro to OOP in Python|
-|17|||
+|17| Coding a Quiz Game|OOP in Python - More on Classes|
 |18|||
 |19|||
 |20|||
