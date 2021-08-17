@@ -22,7 +22,7 @@ To track progress during 100 Days of Code challenge
 |17| Coding a Quiz Game|OOP in Python - More on Classes|
 |18| Turtle - Practice Exercises| Intro to Turtle Graphics|
 |19| Hirst Dot Painting| More on Turtle, Understanding colorgram|
-|20|||
+|20|Turtle Racing Game|Using Event Listeners|
 |21|||
 |22|||
 |23|||
