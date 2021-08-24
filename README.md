@@ -25,7 +25,7 @@ To track progress during 100 Days of Code challenge
 |20| Turtle Racing Game|Using Event Listeners in Turtle|
 |21| Building the Snake Game - Part 1| Python OOP Revisited|
 |22| Building the Snake Game - Part 2| Turtle, Python OOP|
-|23|||
+|23| Building the Pong Game|Turtle, Python OOP - Revisiting Concepts|
 |24|||
 |25|||
 |26|||
