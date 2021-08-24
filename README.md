@@ -23,8 +23,8 @@ To track progress during 100 Days of Code challenge
 |18| Turtle - Practice Exercises| Intro to Turtle Graphics|
 |19| Hirst Dot Painting| More on Turtle, Understanding colorgram|
 |20| Turtle Racing Game|Using Event Listeners in Turtle|
-|21| Building the Snake Game| Python OOP Revisited|
-|22|||
+|21| Building the Snake Game - Part 1| Python OOP Revisited|
+|22| Building the Snake Game - Part 2| Turtle, Python OOP|
 |23|||
 |24|||
 |25|||
