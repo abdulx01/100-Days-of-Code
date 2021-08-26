@@ -26,7 +26,7 @@ To track progress during 100 Days of Code challenge
 |21| Building the Snake Game - Part 1| Python OOP Revisited|
 |22| Building the Snake Game - Part 2| Turtle, Python OOP|
 |23| Building the Pong Game|Turtle, Python OOP - Revisiting Concepts|
-|24|||
+|24| Turtle Crossing Game|Turtle & Python OOP - A Complete Recap|
 |25|||
 |26|||
 |27|||
