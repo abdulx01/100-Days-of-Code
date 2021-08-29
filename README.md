@@ -1,7 +1,7 @@
 # 100-Days-of-Code
 To track progress during 100 Days of Code challenge
 
-| 📅 Day # | ▶ What was done| 📚 Topics Covered|
+|Day # | ▶ What was done| 📚 Topics Covered|
 | -----| -----|----|
 |1| Band Name Generator| Printing, Commenting, Debugging, String Manipulation, Variables|
 |2| Tip Calculator| Data Types, Numbers, Operations, Type Conversion, f-strings |
@@ -27,7 +27,7 @@ To track progress during 100 Days of Code challenge
 |22| Building the Snake Game - Part 2| Turtle, Python OOP|
 |23| Building the Pong Game|Turtle, Python OOP - Revisiting Concepts|
 |24| Turtle Crossing Game|Turtle & Python OOP - A Complete Recap|
-|25|||
+|25| Mail Merge Challenge|Working with Files & Directories|
 |26|||
 |27|||
 |28|||
