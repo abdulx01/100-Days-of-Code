@@ -28,7 +28,7 @@ To track progress during 100 Days of Code challenge
 |23| Building the Pong Game|Turtle, Python OOP - Revisiting Concepts|
 |24| Turtle Crossing Game|Turtle & Python OOP - A Complete Recap|
 |25| Mail Merge Challenge|Working with Files & Directories|
-|26|||
+|26| US States Guessing Game| Turtle, Working with Files|
 |27|||
 |28|||
 |29|||
