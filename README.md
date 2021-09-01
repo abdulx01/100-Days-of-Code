@@ -29,7 +29,7 @@ To track progress during 100 Days of Code challenge
 |24| Turtle Crossing Game|Turtle & Python OOP - A Complete Recap|
 |25| Mail Merge Challenge|Working with Files & Directories|
 |26| US States Guessing Game| Turtle, Working with Files, Intro to pandas|
-|27|||
+|27|NATO Alphabet|List & Dictionary Comprehensions|
 |28|||
 |29|||
 |30|||
