@@ -30,7 +30,7 @@ To track progress during 100 Days of Code challenge
 |25| Mail Merge Challenge|Working with Files & Directories|
 |26| US States Guessing Game| Turtle, Working with Files, Intro to pandas|
 |27|NATO Alphabet|List & Dictionary Comprehensions|
-|28|||
+|28|Practice|List Comprehension|
 |29|||
 |30|||
 |31|||
