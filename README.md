@@ -31,7 +31,7 @@ To track progress during 100 Days of Code challenge
 |26| US States Guessing Game| Turtle, Working with Files, Intro to pandas|
 |27|NATO Alphabet|List & Dictionary Comprehensions|
 |28|Practice|List Comprehension|
-|29|||
+|29|Practice|Dictionary Comprehension|
 |30|||
 |31|||
 |32|||
