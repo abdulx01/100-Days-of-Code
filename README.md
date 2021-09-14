@@ -34,7 +34,7 @@ To track progress during 100 Days of Code challenge
 |29|Practice|Dictionary Comprehension|
 |30|Miles to Kilometers Converter|Intro to GUI Creation with Tkinter|
 |31|Pomodoro Timer App|More on Tkinter|
-|32|Password Manager App||
+|32|Password Manager App|More on GUIs using Tkinter|
 |33|||
 |34|||
 |35|||
